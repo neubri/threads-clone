@@ -2,7 +2,7 @@
 
 ## Overview
 
-Threads Clone is a professional social media mobile application inspired by Twitter/X Threads, designed for seamless user interaction and content sharing. The app enables users to register, log in, create posts with hashtags and images, interact through likes, comments, and follows, and discover other users. Built with a focus on robust authentication, real-time updates, and consistent error handling, Threads Clone delivers a modern and reliable user experience.
+Threads Clone is a professional social media mobile application inspired by threads by meta, designed for seamless user interaction and content sharing. The app enables users to register, log in, create posts with hashtags and images, interact through likes, comments, and follows, and discover other users. Built with a focus on robust authentication, real-time updates, and consistent error handling, Threads Clone delivers a modern and reliable user experience.
 
 ## Features
 
